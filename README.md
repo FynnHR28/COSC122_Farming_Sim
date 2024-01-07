@@ -1,3 +1,8 @@
+# 2D Farming Simulator
+<img width="1053" alt="Screenshot 2024-01-06 at 4 01 11 PM" src="https://github.com/FynnHR28/COSC122_Farming_Sim/assets/136636012/5c694703-c14a-4799-8175-62e245897a52">
+
+
+
 # Compile and Run:
 Compile and run this program with:
 javac *.java

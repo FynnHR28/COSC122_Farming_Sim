@@ -1,14 +1,14 @@
 # 2D Farming Simulator
 <img width="1053" alt="Screenshot 2024-01-06 at 4 01 11 PM" src="https://github.com/FynnHR28/COSC122_Farming_Sim/assets/136636012/5c694703-c14a-4799-8175-62e245897a52">
 
+## Description
 
-
-# Compile and Run:
+## Compile and Run
 Compile and run this program with:
 javac *.java
 java Main
 
-# Instructions for Use:
+## Instructions for Use
 NOTE that all these instructions are also available through guided user action in the game
 
 To begin, click the play button on the title screen.

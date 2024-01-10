@@ -20,6 +20,8 @@ The classic 'w''a''s''d' keyboard input moves the character around; up, left, do
 
 ### Opening the inventory
 Type 'i'. This pauses the game and allows you to move items around in inventory and tool bar by clicking one item, and then clicking another item slot (which can be open or occupied).
+ 
+ <img width="576" alt="Screenshot 2024-01-10 at 10 24 48 AM" src="https://github.com/FynnHR28/COSC122_Farming_Sim/assets/136636012/a9165d7b-ed2d-4e63-a488-3ea5d70e6d8c">
 
 ### Closing the Inventory
 Type 'esc'. This resumes the game gets rid of the inventory graphics on the screen. You can only swap items around when the inventory is up on the screen.
@@ -32,8 +34,17 @@ Doing so starts a fishing event which continues to update the AI animals and cro
 to move around while fishing. Additional things include placing animal traps on grass tiles while they are highlighted. If a bunny walks over this trap a dialogue box pops up telling that you caught a bunny and a new one spawns.
 NOTE to have an equipped item you must first move an item from the inventory into the toolbar, and then press the corresponding key on the keyboard that equips that toolbar slot you moved the item to.
 
+<img width="538" alt="Screenshot 2024-01-10 at 10 27 06 AM" src="https://github.com/FynnHR28/COSC122_Farming_Sim/assets/136636012/0f67c0cd-1097-4134-bb5a-9fbd6bd5ee2e">
+
+
 ### Your house: 
 You can walk into the house on the map just by walking into it, and you can exit by walking into the southern most tip of the interior.
 
 ### While inside the house
-You can also customize the look of the farm by clicking on the table in the middle of it while it is highlighted. This activates a creative mode where you can move around tree, soil, and grass tiles by clicking on two of them, causing a swap. Note you cannot swap soil tiles when they have a crop growing in them, nor can you swap any of the other tiles.
+You can also customize the look of the farm by clicking on the table in the middle of the house while it is highlighted. 
+
+<img width="138" alt="Screenshot 2024-01-10 at 10 28 18 AM" src="https://github.com/FynnHR28/COSC122_Farming_Sim/assets/136636012/e4dbd0e5-d275-4cfc-bea8-957995046867">
+
+This activates a creative mode where you can move around tree, soil, and grass tiles by clicking on two of them, causing a swap. Note you cannot swap soil tiles when they have a crop growing in them, nor can you swap any of the fence, house, or water tiles.
+<img width="522" alt="Screenshot 2024-01-10 at 10 28 39 AM" src="https://github.com/FynnHR28/COSC122_Farming_Sim/assets/136636012/3dfb9651-b025-44c7-90f1-3ff7784023f3">
+

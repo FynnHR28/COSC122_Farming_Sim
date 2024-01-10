@@ -2,7 +2,8 @@
 <img width="1053" alt="Screenshot 2024-01-06 at 4 01 11 PM" src="https://github.com/FynnHR28/COSC122_Farming_Sim/assets/136636012/5c694703-c14a-4799-8175-62e245897a52">
 
 ## Description
-This is the program I created for my final project in my Introductory to Computer Science II course at Amherst College. The code involves concepts like subclassing, interfaces, and advanced built-in data structures learned in the class. All graphics are original, made on Piskel.com or Adobe Photoshop. It has elements inspired by Minecraft.
+This is the program I created for my final project in my Introductory to Computer Science II course at Amherst College. The code involves concepts like subclassing, interfaces, and advanced built-in data structures learned in the class. All graphics are original, made on Piskel.com or Adobe Photoshop. It has elements inspired by Minecraft. In this farming simulator you can move your items around freely, equip whatever you want, and complete various activities like planting crops in soil, harvesting said crops, fishing, trapping bunnies, and customizing your farm. The game itself has guides built into it to help the player learn how to do things. Typing 'h' while playing opens a help menu, and the inventory also includes some info about switching items. The key thing to remember is you can only trigger an interaction with a tile if you are clicking with the mouse within the tile that is in front of you, which is highlighted with a white rectangle.
+
 
 ## Compile and Run
 Compile and run this program with:
@@ -29,7 +30,3 @@ NOTE to have an equipped item you must first move an item from the inventory int
 
 Your house: you can walk into the house on the map just by walking into it, and you can exit by walking into the southern most tip of the interior.
 While inside the house: You can also customize the look of the farm by clicking on the table in the middle of it while it is highlighted. This activates a creative mode where you can move around tree, soil, and grass tiles by clicking on two of them, causing a swap. Note you cannot swap soil tiles when they have a crop growing in them, nor can you swap any of the other tiles.
-
-To reiterate, in this game you can move your items around freely, equip whatever you want, and complete various activities like planting
-Crops in soil, harvesting said crops, fishing, trapping bunnies, and customizing your farm. The game itself has guides built into it to help the player learn how to do things. Typing 'h' while playing opens a help menu, and the inventory also includes some info about switching items. The key thing to remember is you can only trigger an interaction with a tile if you are clicking with the mouse within the tile that is in front of you, which is highlighted with a white rectangle.
-

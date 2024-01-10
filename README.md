@@ -46,5 +46,6 @@ You can also customize the look of the farm by clicking on the table in the midd
 <img width="138" alt="Screenshot 2024-01-10 at 10 28 18 AM" src="https://github.com/FynnHR28/COSC122_Farming_Sim/assets/136636012/e4dbd0e5-d275-4cfc-bea8-957995046867">
 
 This activates a creative mode where you can move around tree, soil, and grass tiles by clicking on two of them, causing a swap. Note you cannot swap soil tiles when they have a crop growing in them, nor can you swap any of the fence, house, or water tiles.
+
 <img width="522" alt="Screenshot 2024-01-10 at 10 28 39 AM" src="https://github.com/FynnHR28/COSC122_Farming_Sim/assets/136636012/3dfb9651-b025-44c7-90f1-3ff7784023f3">
 
